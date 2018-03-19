@@ -1,10 +1,12 @@
 
 ## Flirting In Broad Daylight
 
-Made for the VGAD Game Jam March 2018, the theme was "In Broad Daylight".  
+Your typical dating sim game, or is it?  
   
+Made for the VGAD Game Jam March 16–18 2018, the theme was "In Broad Daylight".  
 This is a parody Game extending a Pop Team Epic gag.  
-
+Created with Game Maker Studio 1.4.  
+  
 #### Credits:  
   
 Music by Audionautix http://audionautix.com/index.php  
